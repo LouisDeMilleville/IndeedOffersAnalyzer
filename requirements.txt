@@ -1,0 +1,4 @@
+selenium
+openai==0.28
+discord_webhook
+bs4
